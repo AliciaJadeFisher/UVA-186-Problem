@@ -5,10 +5,6 @@
 ; Second Dijkstra Problem : https://www.pearsonschoolsandfecolleges.co.uk/secondary/Mathematics/16plus/AdvancingMathsForAQA2ndEdition/Samples/SampleMaterial/Chp-02%20023-043.pdf
 ; p.g. 25, problem 2.1
 ; =====================================
-; Peer Points
-; Alicia-Jade Fisher : 5
-; Manisha Lakshmipathula : 4
-; Jalagari Teja : 4
 
 (ns main)
 
